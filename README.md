@@ -6,7 +6,11 @@ Welcome to the Pong Game created during the winter of 2022! This classic arcade 
 Features:
 
 _**Classic Gameplay:**_ Enjoy the timeless gameplay of Pong, where two players compete to score points by bouncing a ball past their opponent's paddle.
-_**Multiplayer Mode:** _Play against a friend in exciting two-player matches.
+
+_**Multiplayer Mode:**_ Play against a friend in exciting two-player matches.
+
 _**Customizable Settings:**_ Adjust game settings, such as ball speed and paddle size, to tailor the gameplay to your preferences.
-**_Scorekeeping: _**Keep track of your scores and see who reigns supreme in the Pong arena.
+
+_**Scorekeeping:**_ Keep track of your scores and see who reigns supreme in the Pong arena.
+
 _**Intuitive Controls:**_ The game features simple and responsive controls for an enjoyable gaming experience.
